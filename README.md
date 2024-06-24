@@ -1,4 +1,4 @@
-# Hello World, I'm Yusuf Muhammad 👋
+# Hello World, I'm Yusuf Babagana 👋
 
 Welcome to my slice of the internet! I'm a **Software Engineer** with a heart for backend development, a mind wired for solving puzzles with code, and a soul that thrives on innovation. My coding journey is fueled by Python, JavaScript, and C++, crafting solutions that matter.
 
